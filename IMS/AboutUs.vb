@@ -63,7 +63,6 @@ Public Class frmStats
         con.Close()
         Dim profits As Integer
         profits = (remaining + sold) - purchase
-        'lblProfits.Text = profits
     End Sub
 
     Private Sub lblPurchase_Click(sender As Object, e As EventArgs) Handles lblPurchase.Click
