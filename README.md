@@ -9,4 +9,5 @@ Inventory Management System / Point of Sale.
 1. Search product you want to sale - Right Side
 2. Products you have sold out - Left.
 
-![login_page](https://user-images.githubusercontent.com/25560375/132986961-90065b9d-d926-4489-98d3-440d35d41c75.png)
+![main_screen](https://user-images.githubusercontent.com/25560375/132986979-c0d2077b-47d0-4fd3-8111-179d4a7d8ec8.png)
+
